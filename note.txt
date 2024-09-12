@@ -1,0 +1,5 @@
+just follow the steps on
+laravel documentation
+there is no need of extra configuration
+or there is no need of extra configuration outside the.env file and
+we are using laravel reverb for this purpose
